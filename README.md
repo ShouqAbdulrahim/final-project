@@ -1,5 +1,4 @@
-# Scrum Git Setup Project
+# App
 
-هذا مجرد اختبار للتأكد أن الملف شغال ✨
 
-Initial commit from GitHub
+
